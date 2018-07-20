@@ -1,0 +1,103 @@
+@font-face {
+font-family: "Circular-Book";
+src: url("fonts/CircularStd-Book.otf") format("opentype");
+src: url("fonts/CircularStd-Medium.otf") format("opentype");
+}
+h1 , h2 , h3 , .ills2 , a{
+    font-family:  Circular-Book;
+}
+.jumbotron{
+    height: 100vh;
+    border-radius: 0;
+    background-color: #242038;
+}
+h1 {
+    color: white;
+    font-size: 99px;
+}
+.navigation {
+    background-color: black;
+}
+.colhead {
+    margin-top: 30vh;
+}
+.container {
+    width: 100vh;
+}
+.ills2 {
+    color: white;
+    font-size: 28px;
+}
+.nav-link {
+    margin-right: 77px;
+}
+a {
+    color: white;
+    font-size: 14px;
+}
+.bg {
+    background-color: #725AC1;
+}
+h2 {
+    font-size: 46px;
+}
+h3 {r
+    font-size: 28px; 
+}
+.section2 {
+    height: 90vh;
+}
+.section3 {
+    height: 90vh;
+    background-color: #242038;
+}
+.section4 {
+    height: 50vh;
+}
+.row1 {
+    width: 50vh;
+}
+.col-custom {
+    margin-top: 20vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    margin-bottom: 20vh;
+}
+.padding-text {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.btn1 {
+    background-color: #725AC1;
+    min-width: 240px;
+    height: 60px;
+    margin-top: 5vh;
+}
+.section3-text {
+    color: white;
+}
+.ppl {
+    margin-top: 10vh;
+}
+.circle {
+    width: 10vh;
+    height: 10vh;
+    background-color: #242038;
+    border-radius: 100%;
+    display: inline-block;
+    margin-right: 3vh;
+    margin-left: 3vh;
+}
+.footer1 {
+    height: 40vh;
+    background-color: #242038;
+}
+p {
+    color: white;
+}
+.footer-text {
+    margin-top: 6vh;
+    margin-bottom: 4vh;
+}
