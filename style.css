@@ -3,8 +3,8 @@ font-family: "Circular-Book";
 src: url("fonts/CircularStd-Book.otf") format("opentype");
 src: url("fonts/CircularStd-Medium.otf") format("opentype");
 }
-h1 , h2 , h3 , .ills2 , a{
-    font-family:  Circular-Book;
+h1 , h2 , h3 , .ills2 , a , p{
+    font-family: 'Varela Round', sans-serif;
 }
 .jumbotron{
     height: 100vh;
